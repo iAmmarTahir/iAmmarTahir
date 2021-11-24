@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iammartahir" alt="iammartahir" /></a> </p>
 
-- 🔭 I’m currently working on [Kaleidoscope](http://k6scope.com/)
+- 🔭 I’m currently working as a Software Engineer at [Kaleidoscope](http://k6scope.com/)
 
 - 🌱 I’m currently learning **Apache Kafka**
 
