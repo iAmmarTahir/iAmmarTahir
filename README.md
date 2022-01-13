@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iammartahir&label=Profile%20views&color=0e75b6&style=flat" alt="iammartahir" /> </p>
 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iammartahir" alt="iammartahir" /></a> </p>
 
 - 🔭 I’m currently working as a Software Engineer at [Kaleidoscope](http://k6scope.com/)
@@ -29,4 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iammartahir&show_icons=true&locale=en" alt="iammartahir" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iammartahir&" alt="iammartahir" /></p>
+<p align="left"> <a href="https://app.daily.dev/ammartahir"><img src="https://api.daily.dev/devcards/8bcedeccb9d049e4afe399ee89edbbcd.png?r=2oc" width="400" alt="Ammar Tahir's Dev Card"/></a></p>
 
