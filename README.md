@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working as a Software Engineer at [Kaleidoscope](http://k6scope.com/)
 
-- 🌱 I’m currently learning **Apache Kafka**
+- 🌱 I’m currently learning **Distributed Systems**
 
 - 💬 Ask me about **React, Golang, NodeJS and Elixir**
 
 - 📫 How to reach me **ammartahircs@gmail.com**
 
-- ⚡ Fun fact **I get bored really fast by working on a same technology, so I'm continuously learning new technologies.**
+- ⚡ Fun fact **I have a passion for solving problems and love the feeling of seeing my code come to life.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
