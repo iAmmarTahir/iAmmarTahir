@@ -1,10 +1,4 @@
 ![GitHub Metrics](github-metrics.svg)
-<h4 align="left">Open Source Contributions</h4>
-<ul>
-<li><a href="https://github.com/apache/tinkerpop">Apache Tinkerpop</a></li>
-<li><a href="https://dair.ai/">DAIR.ai</a></li>
-</ul>
-<hr />
 <h4 align="left">Programming Languages</h4>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
