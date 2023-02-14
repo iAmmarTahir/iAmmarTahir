@@ -1,3 +1,4 @@
+![GitHub Metrics](github-metrics.svg)
 <h1 align="center">Hi 👋, I'm Ammar Tahir</h1>
 <h3 align="center">A Software Engineer from Pakistan 🇵🇰</h3>
 
